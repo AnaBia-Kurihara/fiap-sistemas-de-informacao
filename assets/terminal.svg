@@ -1,56 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 290" role="img" aria-label="Terminal: estudante de Sistemas de Informação, 1º ano">
-  <defs>
-    <linearGradient id="gt" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f472b6"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <linearGradient id="bgt" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f0a1a"/><stop offset="1" stop-color="#1a1030"/>
-    </linearGradient>
-    <pattern id="dotst" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#c084fc" opacity=".18"/>
-    </pattern>
-    <linearGradient id="shinet" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f472b6"/><stop offset=".35" stop-color="#c084fc"/>
-      <stop offset=".5" stop-color="#ffffff"/><stop offset=".65" stop-color="#c084fc"/><stop offset="1" stop-color="#f472b6"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
-    </linearGradient></defs>
-  <rect x="1" y="1" width="998" height="288" rx="14" fill="url(#bgt)"/>
-  <rect x="1" y="1" width="998" height="40" rx="14" fill="#ffffff" opacity=".04"/>
-  <circle cx="28" cy="21" r="6" fill="#f472b6"/><circle cx="48" cy="21" r="6" fill="#c084fc"/><circle cx="68" cy="21" r="6" fill="#a78bfa"/>
-  <text x="500.0" y="26" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#a99fc0">ana@fiap: ~/portfolio</text>
-  
-  <clipPath id="lt0"><rect x="30" y="48" height="30" width="0">
-    <animate attributeName="width" values="0;0;146;146;0" keyTimes="0;0.040;0.133;.96;1" dur="14s" repeatCount="indefinite"/>
-  </rect></clipPath>
-  <text x="32" y="70" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#e9e3f5" clip-path="url(#lt0)" xml:space="preserve"><tspan fill="#f472b6">~ $ </tspan>whoami</text>
-  <clipPath id="lt1"><rect x="30" y="78" height="30" width="0">
-    <animate attributeName="width" values="0;0;655;655;0" keyTimes="0;0.157;0.197;.96;1" dur="14s" repeatCount="indefinite"/>
-  </rect></clipPath>
-  <text x="32" y="100" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#c084fc" clip-path="url(#lt1)" xml:space="preserve">ana-beatriz-kurihara · estudante de Sistemas de Informação</text>
-  <clipPath id="lt2"><rect x="30" y="108" height="30" width="0">
-    <animate attributeName="width" values="0;0;188;188;0" keyTimes="0;0.273;0.367;.96;1" dur="14s" repeatCount="indefinite"/>
-  </rect></clipPath>
-  <text x="32" y="130" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#e9e3f5" clip-path="url(#lt2)" xml:space="preserve"><tspan fill="#f472b6">~ $ </tspan>ls ./1-ano</text>
-  <clipPath id="lt3"><rect x="30" y="138" height="30" width="0">
-    <animate attributeName="width" values="0;0;422;422;0" keyTimes="0;0.390;0.431;.96;1" dur="14s" repeatCount="indefinite"/>
-  </rect></clipPath>
-  <text x="32" y="160" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#c084fc" clip-path="url(#lt3)" xml:space="preserve">1-semestre/   2-semestre/ (em breve)</text>
-  <clipPath id="lt4"><rect x="30" y="168" height="30" width="0">
-    <animate attributeName="width" values="0;0;422;422;0" keyTimes="0;0.507;0.600;.96;1" dur="14s" repeatCount="indefinite"/>
-  </rect></clipPath>
-  <text x="32" y="190" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#e9e3f5" clip-path="url(#lt4)" xml:space="preserve"><tspan fill="#f472b6">~ $ </tspan>cat ./1-semestre/disciplinas.txt</text>
-  <clipPath id="lt5"><rect x="30" y="198" height="30" width="0">
-    <animate attributeName="width" values="0;0;284;284;0" keyTimes="0;0.623;0.664;.96;1" dur="14s" repeatCount="indefinite"/>
-  </rect></clipPath>
-  <text x="32" y="220" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#c084fc" clip-path="url(#lt5)" xml:space="preserve">Front-end · Programação</text>
-  <text x="32" y="250" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#f472b6" xml:space="preserve">~ $ </text>
-  <rect x="74" y="234" width="10" height="20" fill="#f472b6">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-  
-  <rect x="2" y="2" width="996" height="286" rx="14" fill="none" stroke="#c084fc" stroke-opacity=".25" stroke-width="1.5"/>
-  <rect x="2" y="2" width="996" height="286" rx="14" fill="none" stroke="url(#gt)" stroke-width="2.5"
-        stroke-linecap="round" stroke-dasharray="462 2102">
-    <animate attributeName="stroke-dashoffset" from="0" to="-2564" dur="6s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 234" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" role="img"
+         aria-label="Portfólio Acadêmico. Ana Beatriz Kurihara, Sistemas de Informação, FIAP.">
+      
+      <text x="4" y="26" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
+      <clipPath id="c0"><rect x="0" y="4" height="32" width="0">
+        <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6;198.4;209.2;220.0;230.8;241.6;252.4;263.2;274.0;284.8;295.6;306.4;317.2;328.0;338.8;349.6;360.4;371.2" calcMode="discrete" begin="0.70s" dur="1.40s" fill="freeze"/></rect></clipPath>
+      <text x="47.2" y="26" fill="#a855f7" clip-path="url(#c0)" textLength="324.0">cd fiap/sistemas-de-informacao</text>
+      <text x="4" y="58" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="2.35s" fill="freeze"/></text>
+      <clipPath id="c1"><rect x="0" y="36" height="32" width="0">
+        <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6;198.4" calcMode="discrete" begin="2.65s" dur="0.67s" fill="freeze"/></rect></clipPath>
+      <text x="47.2" y="58" fill="#a855f7" clip-path="url(#c1)" textLength="151.2">cat README.txt</text>
+      <text x="4" y="94" fill="#e0559b" font-size="26" font-weight="700" opacity="0">Portfólio Acadêmico<set attributeName="opacity" to="1" begin="3.57s" fill="freeze"/></text>
+      <text x="4" y="122" fill="#8b949e" font-size="18" font-weight="400" opacity="0">Ana Beatriz Kurihara · Sistemas de Informação · FIAP<set attributeName="opacity" to="1" begin="3.92s" fill="freeze"/></text>
+      <text x="4" y="154" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="4.27s" fill="freeze"/></text>
+      <clipPath id="c4"><rect x="0" y="132" height="32" width="0">
+        <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4" calcMode="discrete" begin="4.57s" dur="0.45s" fill="freeze"/></rect></clipPath>
+      <text x="47.2" y="154" fill="#a855f7" clip-path="url(#c4)" textLength="97.2">ls 1-ano/</text>
+      <text x="4" y="186" fill="#8b949e" font-size="18" font-weight="400" opacity="0">1-semestre/  2-semestre/ (em breve)<set attributeName="opacity" to="1" begin="5.27s" fill="freeze"/></text>
+      <text x="4" y="218" fill="#e0559b" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="5.62s" fill="freeze"/></text>
+      <rect x="47.2" y="202" width="10" height="20" fill="#e0559b" opacity="0">
+        <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" begin="5.62s" repeatCount="indefinite"/>
+      </rect>
+    </svg>

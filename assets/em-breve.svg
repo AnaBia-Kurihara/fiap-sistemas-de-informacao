@@ -1,43 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" role="img" aria-label="2º semestre: projetos em breve">
-  <defs>
-    <linearGradient id="ge" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f472b6"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <linearGradient id="bge" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f0a1a"/><stop offset="1" stop-color="#1a1030"/>
-    </linearGradient>
-    <pattern id="dotse" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#c084fc" opacity=".18"/>
-    </pattern>
-    <linearGradient id="shinee" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f472b6"/><stop offset=".35" stop-color="#c084fc"/>
-      <stop offset=".5" stop-color="#ffffff"/><stop offset=".65" stop-color="#c084fc"/><stop offset="1" stop-color="#f472b6"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
-    </linearGradient>
-    <pattern id="stripe" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <rect width="8" height="16" fill="#fff" opacity=".18"/>
-      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="16 0" dur="1s" repeatCount="indefinite" additive="sum"/>
-    </pattern></defs>
-  <rect x="1" y="1" width="998" height="168" rx="16" fill="url(#bge)"/>
-  <rect x="1" y="1" width="998" height="168" rx="16" fill="url(#dotse)"/>
-  <text x="40" y="58" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="url(#shinee)">2º SEMESTRE</text>
-  <g><rect x="810" y="34" width="150" height="32" rx="16" fill="#f472b6" fill-opacity=".15" stroke="#f472b6"/>
-    <circle cx="832" cy="50" r="5" fill="#f472b6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
-    <text x="895" y="55" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#f472b6">EM BREVE</text></g>
-  <text x="40" y="96" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#cfc6e2"><tspan fill="#f472b6">~ $ </tspan>git push origin 2-semestre
-    <tspan fill="#c084fc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
-  <rect x="40" y="118" width="920" height="14" rx="7" fill="#ffffff" opacity=".07"/>
-  <rect x="40" y="118" height="14" rx="7" fill="url(#ge)" width="0">
-    <animate attributeName="width" values="0;506;662;791;791" keyTimes="0;.3;.55;.8;1" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="40" y="118" height="14" rx="7" fill="url(#stripe)" width="0">
-    <animate attributeName="width" values="0;506;662;791;791" keyTimes="0;.3;.55;.8;1" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <text x="40" y="154" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a99fc0">Os projetos do 2º semestre estão sendo finalizados.</text>
-  
-  <rect x="2" y="2" width="996" height="166" rx="16" fill="none" stroke="#c084fc" stroke-opacity=".25" stroke-width="1.5"/>
-  <rect x="2" y="2" width="996" height="166" rx="16" fill="none" stroke="url(#ge)" stroke-width="2.5"
-        stroke-linecap="round" stroke-dasharray="418 1906">
-    <animate attributeName="stroke-dashoffset" from="0" to="-2324" dur="6s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 106" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" role="img"
+         aria-label="2º semestre: projetos em breve.">
+      
+      <text x="4" y="26" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
+      <clipPath id="c0"><rect x="0" y="4" height="32" width="0">
+        <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6;198.4;209.2;220.0;230.8;241.6;252.4;263.2;274.0;284.8;295.6;306.4;317.2;328.0" calcMode="discrete" begin="0.70s" dur="1.21s" fill="freeze"/></rect></clipPath>
+      <text x="47.2" y="26" fill="#a855f7" clip-path="url(#c0)" textLength="280.8">git push origin 2-semestre</text>
+      <text x="4" y="58" fill="#8b949e" font-size="18" font-weight="400" opacity="0">em breve: projetos do 2º semestre em finalização<set attributeName="opacity" to="1" begin="2.17s" fill="freeze"/></text>
+      <text x="4" y="90" fill="#e0559b" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="2.52s" fill="freeze"/></text>
+      <rect x="47.2" y="74" width="10" height="20" fill="#e0559b" opacity="0">
+        <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" begin="2.52s" repeatCount="indefinite"/>
+      </rect>
+    </svg>
