@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" role="img" aria-label="2º semestre: projetos em breve">
+  <defs>
+    <linearGradient id="ge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="bge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0a1a"/><stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <pattern id="dotse" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#c084fc" opacity=".18"/>
+    </pattern>
+    <linearGradient id="shinee" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/><stop offset=".35" stop-color="#c084fc"/>
+      <stop offset=".5" stop-color="#ffffff"/><stop offset=".65" stop-color="#c084fc"/><stop offset="1" stop-color="#f472b6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="stripe" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="16" fill="#fff" opacity=".18"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="16 0" dur="1s" repeatCount="indefinite" additive="sum"/>
+    </pattern></defs>
+  <rect x="1" y="1" width="998" height="168" rx="16" fill="url(#bge)"/>
+  <rect x="1" y="1" width="998" height="168" rx="16" fill="url(#dotse)"/>
+  <text x="40" y="58" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="800" fill="url(#shinee)">2º SEMESTRE</text>
+  <g><rect x="810" y="34" width="150" height="32" rx="16" fill="#f472b6" fill-opacity=".15" stroke="#f472b6"/>
+    <circle cx="832" cy="50" r="5" fill="#f472b6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    <text x="895" y="55" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#f472b6">EM BREVE</text></g>
+  <text x="40" y="96" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#cfc6e2"><tspan fill="#f472b6">~ $ </tspan>git push origin 2-semestre
+    <tspan fill="#c084fc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
+  <rect x="40" y="118" width="920" height="14" rx="7" fill="#ffffff" opacity=".07"/>
+  <rect x="40" y="118" height="14" rx="7" fill="url(#ge)" width="0">
+    <animate attributeName="width" values="0;506;662;791;791" keyTimes="0;.3;.55;.8;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="40" y="118" height="14" rx="7" fill="url(#stripe)" width="0">
+    <animate attributeName="width" values="0;506;662;791;791" keyTimes="0;.3;.55;.8;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="40" y="154" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#a99fc0">Os projetos do 2º semestre estão sendo finalizados.</text>
+  
+  <rect x="2" y="2" width="996" height="166" rx="16" fill="none" stroke="#c084fc" stroke-opacity=".25" stroke-width="1.5"/>
+  <rect x="2" y="2" width="996" height="166" rx="16" fill="none" stroke="url(#ge)" stroke-width="2.5"
+        stroke-linecap="round" stroke-dasharray="418 1906">
+    <animate attributeName="stroke-dashoffset" from="0" to="-2324" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

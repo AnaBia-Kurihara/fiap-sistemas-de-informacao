@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 230" role="img" aria-label="Blocktron: Landing page de um robô de batalha de balões com estética LEGO.">
+  <defs>
+    <linearGradient id="gk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="bgk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0a1a"/><stop offset="1" stop-color="#1a1030"/>
+    </linearGradient>
+    <pattern id="dotsk" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#c084fc" opacity=".18"/>
+    </pattern>
+    <linearGradient id="shinek" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6"/><stop offset=".35" stop-color="#c084fc"/>
+      <stop offset=".5" stop-color="#ffffff"/><stop offset=".65" stop-color="#c084fc"/><stop offset="1" stop-color="#f472b6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient><clipPath id="cl"><rect width="480" height="230" rx="16"/></clipPath></defs>
+  <g clip-path="url(#cl)">
+  <rect width="480" height="230" fill="url(#bgk)"/>
+  <rect width="480" height="230" fill="url(#dotsk)"/>
+  <circle cx="440" cy="30" r="90" fill="#c084fc" opacity=".07"><animate attributeName="r" values="80;100;80" dur="5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(24 22) scale(1.0)">
+    <rect width="72" height="72" rx="14" fill="#ffffff" opacity=".05"/>
+    <defs><linearGradient id="gc" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+    
+    <line x1="36" y1="10" x2="36" y2="20" stroke="#c084fc" stroke-width="2"/>
+    <circle cx="36" cy="9" r="4" fill="#f472b6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    <rect x="16" y="20" width="40" height="30" rx="7" fill="none" stroke="#c084fc" stroke-width="2.5"/>
+    <rect x="25" y="30" width="7" height="8" rx="2" fill="#f472b6"><animate attributeName="height" values="8;8;1;8" keyTimes="0;.85;.9;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="40" y="30" width="7" height="8" rx="2" fill="#f472b6"><animate attributeName="height" values="8;8;1;8" keyTimes="0;.85;.9;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="24" y="54" width="24" height="10" rx="3" fill="#a78bfa" opacity=".7"/>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.4s" repeatCount="indefinite"/>
+      <ellipse cx="62" cy="22" rx="6" ry="7" fill="#f472b6" opacity=".85"/><path d="M62 29 q-2 5 1 9" stroke="#f472b6" fill="none"/></g></g>
+  <text x="112" y="52" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Blocktron</text>
+  <rect x="112" y="64" width="90" height="22" rx="6" fill="#f472b6" fill-opacity=".15"/>
+  <text x="157" y="79" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.5" fill="#f472b6">FRONT-END</text>
+  <text x="24" y="124" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#cfc6e2">Landing page de um robô de batalha de balões</text><text x="24" y="144" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#cfc6e2">com estética LEGO.</text>
+  <rect x="24" y="184" width="56" height="24" rx="12" fill="#c084fc" fill-opacity=".12" stroke="#c084fc" stroke-opacity=".4"/><text x="52" y="200" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#e9d5ff">HTML5</text><rect x="88.0" y="184" width="48" height="24" rx="12" fill="#c084fc" fill-opacity=".12" stroke="#c084fc" stroke-opacity=".4"/><text x="112" y="200" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#e9d5ff">CSS3</text>
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#f472b6">
+    <text x="456" y="38" text-anchor="end">abrir repositório
+      <tspan>-&gt;<animate attributeName="dx" values="0;5;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+  </g>
+  
+  <rect x="2" y="2" width="476" height="226" rx="16" fill="none" stroke="#c084fc" stroke-opacity=".25" stroke-width="1.5"/>
+  <rect x="2" y="2" width="476" height="226" rx="16" fill="none" stroke="url(#gk)" stroke-width="2.5"
+        stroke-linecap="round" stroke-dasharray="253 1151">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1404" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
