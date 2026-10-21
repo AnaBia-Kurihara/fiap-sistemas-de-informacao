@@ -1,4 +1,4 @@
-<img src="assets/terminal.svg" width="640" alt="Portfólio Acadêmico. Ana Beatriz Kurihara, Sistemas de Informação, FIAP." />
+<img src="assets/cabecalho.svg" width="640" alt="Portfólio Acadêmico. Ana Beatriz Kurihara, Sistemas de Informação, FIAP." />
 
 Este é o meu repositório de acompanhamento acadêmico. Ele documenta minha evolução, meus projetos e as entregas que fiz ao longo da graduação em **Sistemas de Informação na FIAP**.
 
@@ -27,6 +27,6 @@ O site do ARES-AI está no ar: [anabia-kurihara.github.io/site-projeto-espacial]
 <summary><b>2º Semestre</b> · em breve</summary>
 <br>
 
-<img src="assets/em-breve.svg" width="640" alt="2º semestre: projetos em breve." />
+<img src="assets/segundo-semestre.svg" width="640" alt="2º semestre: projetos em breve." />
 
 </details>
