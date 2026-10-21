@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 106" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" role="img"
          aria-label="2º semestre: projetos em breve.">
       
-      <text x="4" y="26" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
+      <text x="4" y="26" fill="#a371f7" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
       <clipPath id="c0"><rect x="0" y="4" height="32" width="0">
         <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6;198.4;209.2;220.0;230.8;241.6;252.4;263.2;274.0;284.8;295.6;306.4;317.2;328.0" calcMode="discrete" begin="0.70s" dur="1.21s" fill="freeze"/></rect></clipPath>
-      <text x="47.2" y="26" fill="#a855f7" clip-path="url(#c0)" textLength="280.8">git push origin 2-semestre</text>
+      <text x="47.2" y="26" fill="#a371f7" clip-path="url(#c0)" textLength="280.8">git push origin 2-semestre</text>
       <text x="4" y="58" fill="#8b949e" font-size="18" font-weight="400" opacity="0">em breve: projetos do 2º semestre em finalização<set attributeName="opacity" to="1" begin="2.17s" fill="freeze"/></text>
-      <text x="4" y="90" fill="#e0559b" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="2.52s" fill="freeze"/></text>
-      <rect x="47.2" y="74" width="10" height="20" fill="#e0559b" opacity="0">
+      <text x="4" y="90" fill="#a371f7" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="2.52s" fill="freeze"/></text>
+      <rect x="47.2" y="74" width="10" height="20" fill="#a371f7" opacity="0">
         <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" begin="2.52s" repeatCount="indefinite"/>
       </rect>
     </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" role="img" aria-label="Combustível em Marte: Simulação em Java da produção de combustível em Marte.">
+  <rect x=".5" y=".5" width="479" height="199" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(24 22)">
+    <rect width="64" height="64" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(2 2) scale(.833)">
+      <defs><linearGradient id="gc" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e40c9"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+      
+    <clipPath id="tk"><rect x="20" y="12" width="32" height="50" rx="8"/></clipPath>
+    <g clip-path="url(#tk)"><rect x="20" width="32" fill="#8b949e" opacity=".8">
+      <animate attributeName="y" values="58;20;58" dur="4s" repeatCount="indefinite"/><animate attributeName="height" values="4;42;4" dur="4s" repeatCount="indefinite"/></rect>
+      <circle cx="30" r="2.5" fill="#fff" opacity=".7"><animate attributeName="cy" values="60;16" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="42" r="2" fill="#fff" opacity=".7"><animate attributeName="cy" values="60;16" dur="2.3s" begin=".6s" repeatCount="indefinite"/></circle></g>
+    <rect x="20" y="12" width="32" height="50" rx="8" fill="none" stroke="#a371f7" stroke-width="2.5"/>
+    <rect x="30" y="6" width="12" height="6" rx="2" fill="#a371f7"/>
+    </g></g>
+  <text x="104" y="48" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Combustível em Marte</text>
+  <text x="104" y="72" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#8b949e">PROGRAMAÇÃO</text>
+  <path d="M442 40 L454 28 M445 28 H454 V37" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="24" y="118" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#9da7b3">Simulação em Java da produção de</text><text x="24" y="138" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#9da7b3">combustível em Marte.</text>
+  <rect x="24" y="160" width="46" height="22" rx="6" fill="none" stroke="#30363d"/><text x="47" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">Java</text><rect x="75.6" y="160" width="38" height="22" rx="6" fill="none" stroke="#30363d"/><text x="95" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">POO</text>
+</svg>

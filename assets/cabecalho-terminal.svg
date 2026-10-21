@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 234" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" role="img"
          aria-label="Portfólio Acadêmico. Ana Beatriz Kurihara, Sistemas de Informação, FIAP.">
       
-      <text x="4" y="26" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
+      <text x="4" y="26" fill="#a371f7" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/></text>
       <clipPath id="c0"><rect x="0" y="4" height="32" width="0">
         <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6;198.4;209.2;220.0;230.8;241.6;252.4;263.2;274.0;284.8;295.6;306.4;317.2;328.0;338.8;349.6;360.4;371.2" calcMode="discrete" begin="0.70s" dur="1.40s" fill="freeze"/></rect></clipPath>
-      <text x="47.2" y="26" fill="#a855f7" clip-path="url(#c0)" textLength="324.0">cd fiap/sistemas-de-informacao</text>
-      <text x="4" y="58" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="2.35s" fill="freeze"/></text>
+      <text x="47.2" y="26" fill="#a371f7" clip-path="url(#c0)" textLength="324.0">cd fiap/sistemas-de-informacao</text>
+      <text x="4" y="58" fill="#a371f7" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="2.35s" fill="freeze"/></text>
       <clipPath id="c1"><rect x="0" y="36" height="32" width="0">
         <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4;155.2;166.0;176.8;187.6;198.4" calcMode="discrete" begin="2.65s" dur="0.67s" fill="freeze"/></rect></clipPath>
-      <text x="47.2" y="58" fill="#a855f7" clip-path="url(#c1)" textLength="151.2">cat README.txt</text>
-      <text x="4" y="94" fill="#e0559b" font-size="26" font-weight="700" opacity="0">Portfólio Acadêmico<set attributeName="opacity" to="1" begin="3.57s" fill="freeze"/></text>
+      <text x="47.2" y="58" fill="#a371f7" clip-path="url(#c1)" textLength="151.2">cat README.txt</text>
+      <text x="4" y="94" fill="#a371f7" font-size="26" font-weight="700" opacity="0">Portfólio Acadêmico<set attributeName="opacity" to="1" begin="3.57s" fill="freeze"/></text>
       <text x="4" y="122" fill="#8b949e" font-size="18" font-weight="400" opacity="0">Ana Beatriz Kurihara · Sistemas de Informação · FIAP<set attributeName="opacity" to="1" begin="3.92s" fill="freeze"/></text>
-      <text x="4" y="154" fill="#e0559b" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="4.27s" fill="freeze"/></text>
+      <text x="4" y="154" fill="#a371f7" opacity="0" xml:space="preserve" textLength="43.2">~ $ <set attributeName="opacity" to="1" begin="4.27s" fill="freeze"/></text>
       <clipPath id="c4"><rect x="0" y="132" height="32" width="0">
         <animate attributeName="width" values="47.2;58.0;68.8;79.6;90.4;101.2;112.0;122.8;133.6;144.4" calcMode="discrete" begin="4.57s" dur="0.45s" fill="freeze"/></rect></clipPath>
-      <text x="47.2" y="154" fill="#a855f7" clip-path="url(#c4)" textLength="97.2">ls 1-ano/</text>
+      <text x="47.2" y="154" fill="#a371f7" clip-path="url(#c4)" textLength="97.2">ls 1-ano/</text>
       <text x="4" y="186" fill="#8b949e" font-size="18" font-weight="400" opacity="0">1-semestre/  2-semestre/ (em breve)<set attributeName="opacity" to="1" begin="5.27s" fill="freeze"/></text>
-      <text x="4" y="218" fill="#e0559b" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="5.62s" fill="freeze"/></text>
-      <rect x="47.2" y="202" width="10" height="20" fill="#e0559b" opacity="0">
+      <text x="4" y="218" fill="#a371f7" opacity="0" xml:space="preserve">~ $ <set attributeName="opacity" to="1" begin="5.62s" fill="freeze"/></text>
+      <rect x="47.2" y="202" width="10" height="20" fill="#a371f7" opacity="0">
         <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" begin="5.62s" repeatCount="indefinite"/>
       </rect>
     </svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" role="img" aria-label="Blocktron: Landing page de um robô de batalha de balões com estética LEGO.">
+  <rect x=".5" y=".5" width="479" height="199" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(24 22)">
+    <rect width="64" height="64" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <g transform="translate(2 2) scale(.833)">
+      <defs><linearGradient id="gc" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e40c9"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+      
+    <line x1="36" y1="10" x2="36" y2="20" stroke="#8b949e" stroke-width="2"/>
+    <circle cx="36" cy="9" r="4" fill="#a371f7"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    <rect x="16" y="20" width="40" height="30" rx="7" fill="none" stroke="#8b949e" stroke-width="2.5"/>
+    <rect x="25" y="30" width="7" height="8" rx="2" fill="#a371f7"><animate attributeName="height" values="8;8;1;8" keyTimes="0;.85;.9;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="40" y="30" width="7" height="8" rx="2" fill="#a371f7"><animate attributeName="height" values="8;8;1;8" keyTimes="0;.85;.9;1" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="24" y="54" width="24" height="10" rx="3" fill="#6e40c9" opacity=".7"/>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.4s" repeatCount="indefinite"/>
+      <ellipse cx="62" cy="22" rx="6" ry="7" fill="#a371f7" opacity=".85"/><path d="M62 29 q-2 5 1 9" stroke="#a371f7" fill="none"/></g>
+    </g></g>
+  <text x="104" y="48" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6edf3">Blocktron</text>
+  <text x="104" y="72" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.2" fill="#8b949e">FRONT-END</text>
+  <path d="M442 40 L454 28 M445 28 H454 V37" fill="none" stroke="#8b949e" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="24" y="118" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#9da7b3">Landing page de um robô de batalha de balões</text><text x="24" y="138" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#9da7b3">com estética LEGO.</text>
+  <rect x="24" y="160" width="53" height="22" rx="6" fill="none" stroke="#30363d"/><text x="50" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">HTML5</text><rect x="83.0" y="160" width="46" height="22" rx="6" fill="none" stroke="#30363d"/><text x="106" y="175" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">CSS3</text>
+</svg>
