@@ -17,9 +17,11 @@ No primeiro ano, o foco foi construir a base da formação: lógica de programa�
 
 <a href="https://github.com/AnaBia-Kurihara/site-robo-lego"><img src="assets/projeto-blocktron.svg" width="49%" alt="Blocktron - Front-end" /></a>
 <a href="https://github.com/AnaBia-Kurihara/site-projeto-espacial"><img src="assets/projeto-ares.svg" width="49%" alt="ARES-AI - Front-end" /></a>
+<br>
+<a href="https://anabia-kurihara.github.io/site-robo-lego/"><img src="assets/site-blocktron.svg" width="49%" alt="Acessar site do Blocktron" /></a>
+<a href="https://anabia-kurihara.github.io/site-projeto-espacial/"><img src="assets/site-ares.svg" width="49%" alt="Acessar site do ARES-AI" /></a>
+<br><br>
 <a href="https://github.com/AnaBia-Kurihara/sistema-de-simulacao"><img src="assets/projeto-simulacao.svg" width="49%" alt="Combustível em Marte - Programação" /></a>
-
-O site do ARES-AI está no ar: [anabia-kurihara.github.io/site-projeto-espacial](https://anabia-kurihara.github.io/site-projeto-espacial/)
 
 </details>
 
