@@ -15,10 +15,13 @@
 
 ---
 
-### 🌷 Sobre este espaço
+### 🌷 Sobre este repositório
 
-Aqui ficam todos os projetos que desenvolvi durante a graduação em **Sistemas de Informação na FIAP**, organizados por **ano** e **semestre**.
-Projetos pessoais ficam no meu perfil: [@AnaBia-Kurihara](https://github.com/AnaBia-Kurihara).
+Este é o meu repositório de acompanhamento acadêmico. Ele documenta minha evolução, meus projetos e as entregas que fiz ao longo da graduação em **Sistemas de Informação na FIAP**.
+
+O conteúdo segue a ordem cronológica, por **ano letivo** e **semestre**. Cada período reúne as disciplinas cursadas e os projetos desenvolvidos nelas.
+
+Meus projetos pessoais estão no meu perfil: [@AnaBia-Kurihara](https://github.com/AnaBia-Kurihara).
 
 > 💡 Clique em cada semestre para abrir os projetos.
 
@@ -26,9 +29,18 @@ Projetos pessoais ficam no meu perfil: [@AnaBia-Kurihara](https://github.com/Ana
 
 ## 📚 1º Ano
 
+No primeiro ano, o foco foi construir a base da formação: lógica de programação, orientação a objetos e fundamentos de desenvolvimento web e design de interfaces.
+
 <details open>
 <summary><b>🌸 1º Semestre</b> &nbsp;·&nbsp; base lógica, front-end e primeiros sistemas</summary>
 <br>
+
+No primeiro semestre, os projetos ficaram em duas frentes:
+
+- **Front-end:** criação de landing pages responsivas com HTML5 e CSS3, com atenção à identidade visual, à hierarquia da informação e à experiência do usuário.
+- **Programação:** desenvolvimento de sistemas em Java a partir de problemas reais, aplicando lógica de programação e os primeiros conceitos de orientação a objetos.
+
+#### Projetos
 
 | Projeto | Disciplina | Sobre | Stack |
 |:--|:--|:--|:--|
